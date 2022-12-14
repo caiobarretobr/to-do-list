@@ -1,4 +1,4 @@
-# To-do-list
+# Simple to-do-list
 
 ## 1. Type a task to store
 ## 2. Click "Ok" or press Enter
