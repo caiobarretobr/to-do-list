@@ -64,15 +64,16 @@ input[type="checkbox"] {
     border: 1px solid hsl(0, 0%, 85%);
 }
 
-/* input[type="checkbox"] + label {
-    padding: 0px;
-} */
-
 input[type="checkbox"]:checked + label {
     text-decoration: line-through;
     font-weight: 600;
 }
 
+
 label {
     zoom: 205%;
+}
+
+div {
+    margin: 10px;
 }
